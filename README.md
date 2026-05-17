@@ -1,5 +1,5 @@
 # 100-days-of-code--python
-This is PublicRepo of Amit Patel 
+This is Public Repo of Amit Patel 
 # 100 Days of Python
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)

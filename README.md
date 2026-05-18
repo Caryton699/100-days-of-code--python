@@ -10,3 +10,7 @@ This is Public Repo of Amit Patel
 # Day 1
 Installed Python and Visual studio code in my PC
 and connected this repo with my folder.
+
+# Day 2 
+---Today I learned about pip and modules
+---And today i write my first python program its not big its just #print.

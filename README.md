@@ -14,3 +14,4 @@ and connected this repo with my folder.
 # Day 2 
 ---Today I learned about pip and modules
 ---And today i write my first python program its not big its just #print.
+--- Also I learnt about comments , escape sequence and print Statements.

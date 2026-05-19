@@ -4,22 +4,22 @@
 
 a = 14
 
-b = 84
+b = 2
 
 # Addition
-print("Addition:", a + b)  # Output: 98
+print("Addition:", a + b)  # Output: 16
 
 # Subtraction
-print("Subtraction:", a - b)  # Output: -70
+print("Subtraction:", a - b)  # Output: 12
 
 # Multiplication
-print("Multiplication:", a * b)  # Output: 1180
+print("Multiplication:", a * b)  # Output: 28
 
 # Division
-print("Division:", a / b)  # Output: 0.166666666666
+print("Division:", a / b)  # Output: 7
 
 # Modulus
-print("Modulus:", a % b)  # Output: 14
+print("Modulus:", a % b)  # Output: 0
 
 # Floor Division
-print("Floor Division:", a // b)  # Output: 0
+print("Floor Division:", a // b)  # Output: 7

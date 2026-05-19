@@ -1,5 +1,6 @@
 # 100-days-of-code--python
 This is Public Repo of Amit Patel 
+
 # 100 Days of Python
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
@@ -19,3 +20,4 @@ and connected this repo with my folder.
 # Day 3
 -- Today i learnt about variables and data types in python.
 -- And did my first exercise and made a calculator.
+-- Just learnt about typecasting in python and enhanced the calculator with the help of input 

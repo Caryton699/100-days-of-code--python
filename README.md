@@ -20,4 +20,7 @@ and connected this repo with my folder.
 # Day 3
 -- Today i learnt about variables and data types in python.
 -- And did my first exercise and made a calculator.
--- Just learnt about typecasting in python and enhanced the calculator with the help of input 
+-- Just learnt about typecasting in python and enhanced the calculator with the help of input
+
+# Day 4
+-- today i learnt about string slicing and operations on strings.

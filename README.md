@@ -29,3 +29,6 @@ and connected this repo with my folder.
 # Day 5
 -- learned about if else and made fully working calculator and a Greating bot acc to time.
 -- it was very hard but grasped the concept of matching cases(Very confusing concept).
+
+# Day 6
+-- learend about for loops and while loops  .

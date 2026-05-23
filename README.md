@@ -9,18 +9,18 @@ This is Public Repo of Amit Patel
 
 
 # Day 1
-Installed Python and Visual studio code in my PC
-and connected this repo with my folder.
+-- Installed Python and Visual studio code in my PC
+-- and connected this repo with my folder.
 
 # Day 2 
----Today I learned about pip and modules
----And today i write my first python program its not big its just #print.
+--- Today I learned about pip and modules.
+--- And today i write my first python program its not big its just #print.
 --- Also I learnt about comments , escape sequence and print Statements.
 
 # Day 3
 -- Today i learnt about variables and data types in python.
 -- And did my first exercise and made a calculator.
--- Just learnt about typecasting in python and enhanced the calculator with the help of input
+-- Just learnt about typecasting in python and enhanced the calculator with the help of input.
 
 # Day 4
 -- today i learnt about string slicing and operations on strings.
@@ -31,4 +31,9 @@ and connected this repo with my folder.
 -- it was very hard but grasped the concept of matching cases(Very confusing concept).
 
 # Day 6
--- learend about for loops and while loops  .
+-- learend about for loops.
+
+# Day 7
+-- learned about while loops.
+-- getting bored at concept of break and continue but understood what it meant.
+-- finally learned about the og keyword def.

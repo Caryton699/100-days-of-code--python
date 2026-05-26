@@ -37,3 +37,9 @@ This is Public Repo of Amit Patel
 -- learned about while loops.
 -- getting bored at concept of break and continue but understood what it meant.
 -- finally learned about the og keyword def.
+
+# Day 8
+--learned about function arguments.
+
+# Day 9
+-- introduction to the lists in python.
